@@ -4,7 +4,7 @@ A modern, responsive e-commerce platform built with React and TypeScript, featur
 
 ## Live Demo
 
-Visit the live application: [Hamza's Shop] (https://dazzling-horse-8b621b.netlify.app)
+Visit the live application: [Hamza's Shop] (https://genuine-cassata-5ba0cb.netlify.app)
 ## Project Description
 
 Hamza's Shop is a comprehensive full-stack e-commerce website that provides users with a seamless online shopping experience. The platform features a modern, responsive design with intuitive navigation, advanced product filtering, secure user authentication, and integrated payment processing through Stripe. Built with performance and user experience in mind, the application offers smooth animations, mobile-first design, and production-ready functionality.
